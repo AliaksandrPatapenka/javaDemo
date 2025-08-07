@@ -10,8 +10,9 @@
 
 
 
-
+package ru.stepik.tasks;
 import java.util.Scanner;
+
 
 public class Task19 {
 

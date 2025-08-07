@@ -7,6 +7,8 @@
 
 
 import java.util.Scanner;
+package ru.stepik.tasks;
+
 
 
 
