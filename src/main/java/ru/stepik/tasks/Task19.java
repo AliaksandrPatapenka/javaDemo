@@ -9,7 +9,7 @@
 
 
 
-package ru.stepik.tasks;
+
 
 import java.util.Scanner;
 

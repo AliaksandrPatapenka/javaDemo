@@ -7,7 +7,7 @@
 
 
 import java.util.Scanner;
-package ru.stepik.tasks;
+
 
 
 class Task18 {
