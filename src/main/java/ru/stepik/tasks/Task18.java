@@ -5,9 +5,9 @@
  */
 
 
-
-import java.util.Scanner;
 package ru.stepik.tasks;
+import java.util.Scanner;
+
 
 
 
@@ -16,6 +16,7 @@ class Task18 {
     static final  int N = 10;
 
     public static void main(String[] args) {
+
         Scanner scanner = new Scanner(System.in);
         int kol = 0; // kol - счетчик введенных оценок
         int mark; // оценка
