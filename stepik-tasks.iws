@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/TEMP_FILE.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/TempFile.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task17.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.ipr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
@@ -173,6 +177,13 @@
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="HIDE_WARNINGS" value="false" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -252,6 +263,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Task15.executor": "Run",
+    "Application.Task18.executor": "Run",
+    "Application.Task19.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
