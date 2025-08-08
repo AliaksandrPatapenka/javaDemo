@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Удалено Task17, Добавил Task18,Task19">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task23.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task24.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task25.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
-    </list>
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Удалено Task17, Добавил Task18,Task19" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -395,7 +386,15 @@
       <option name="project" value="LOCAL" />
       <updated>1754577677951</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Удалено Task17, Добавил Task18,Task19">
+      <option name="closed" value="true" />
+      <created>1754666042881</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1754666042881</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
