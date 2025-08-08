@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Удалено Task17, Добавил Task18,Task19" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Удалено Task17, Добавил Task18,Task19">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task21.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task22.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task24.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task25.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -181,18 +190,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "AliaksandrPatapenka"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AliaksandrPatapenka&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com//AliaksandrPatapenka/javaDemo.git",
-    "accountId": "e065ff3a-eb6a-43c2-8c09-50e38a548cf8"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com//AliaksandrPatapenka/javaDemo.git&quot;,
+    &quot;accountId&quot;: &quot;e065ff3a-eb6a-43c2-8c09-50e38a548cf8&quot;
   }
-}]]></component>
+}</component>
   <component name="HierarchyBrowserManager">
     <option name="SHOW_PACKAGES" value="false" />
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -242,9 +251,9 @@
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="30xdcNZXRMgB092J31FplK5x4zJ" />
   <component name="ProjectViewSettings">
     <navigator currentView="ProjectPane" flattenPackages="false" showMembers="false" showStructure="false" autoscrollToSource="false" splitterProportion="0.5" />
@@ -263,6 +272,13 @@
     "Application.Task15.executor": "Run",
     "Application.Task18.executor": "Run",
     "Application.Task19.executor": "Run",
+    "Application.Task20.executor": "Run",
+    "Application.Task21.executor": "Run",
+    "Application.Task22.executor": "Run",
+    "Application.Task23.executor": "Run",
+    "Application.Task24.executor": "Run",
+    "Application.Task25.executor": "Run",
+    "Application.Task26.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -363,7 +379,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754577386873</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Удалено Task17, Добавил Task18,Task19">
+      <option name="closed" value="true" />
+      <created>1754577516606</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1754577516606</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Удалено Task17, Добавил Task18,Task19">
+      <option name="closed" value="true" />
+      <created>1754577677951</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1754577677951</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -456,5 +488,13 @@
   </component>
   <component name="WebViewSettings">
     <webview flattenPackages="false" showMembers="false" autoscrollToSource="false" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="6" language="JAVA" />
+        <watch expression="6" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
