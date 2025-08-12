@@ -4,11 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновление">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task28.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task29.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task21.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил Task21">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task30.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task31.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task33.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task35.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task36.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task37.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -279,6 +283,14 @@
     "Application.Task27.executor": "Run",
     "Application.Task28.executor": "Run",
     "Application.Task29.executor": "Run",
+    "Application.Task30.executor": "Run",
+    "Application.Task31.executor": "Run",
+    "Application.Task32.executor": "Run",
+    "Application.Task33.executor": "Run",
+    "Application.Task34.executor": "Run",
+    "Application.Task35.executor": "Run",
+    "Application.Task36.executor": "Run",
+    "Application.Task37.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -411,7 +423,23 @@
       <option name="project" value="LOCAL" />
       <updated>1754666281505</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Добавил Task27-Task29">
+      <option name="closed" value="true" />
+      <created>1754925507408</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1754925507408</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Добавил Task21">
+      <option name="closed" value="true" />
+      <created>1754925520025</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1754925520025</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -452,7 +480,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Удалено Task17, Добавил Task18,Task19" />
     <MESSAGE value="Обновление" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновление" />
+    <MESSAGE value="Добавил Task27-Task29" />
+    <MESSAGE value="Добавил Task21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил Task21" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -520,9 +550,24 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task29.java</url>
-          <line>19</line>
-          <option name="timeStamp" value="3" />
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task31.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task35.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task36.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task37.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="15" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -531,6 +576,9 @@
         <watch expression="6" language="JAVA" />
         <watch expression="6" language="JAVA" />
       </configuration>
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/ru/stepik/tasks/Task34.java" line="18">
+        <watch expression="a" language="JAVA" />
+      </inline-watch>
     </watches-manager>
   </component>
 </project>
