@@ -4,11 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Изменил структуру проекта, добавил новые папки. Перенес классы в папки">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task32.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p8_methods/Task38.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p8_methods/Task38.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p8_methods/Task40.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p8_methods/Task40.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновил условия задач Task27, Task32, Task38, Task40">
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p3_operatorSwitch/Task13.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p03_operatorSwitch/Task13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p3_operatorSwitch/Task14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p03_operatorSwitch/Task14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p3_operatorSwitch/Task15.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p03_operatorSwitch/Task15.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p3_operatorSwitch/Task16.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p03_operatorSwitch/Task16.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task18.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task18.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task19.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task19.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task20.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task20.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task21.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task21.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task22.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task22.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task23.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task23.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task25.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task25.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p4_loopOperators/Task26.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p04_loopOperators/Task26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task29.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task29.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task30.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task30.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task31.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task31.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task32.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task32.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task33.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task33.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task34.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task34.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task35.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task35.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task36.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task36.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task37.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task37.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -467,7 +487,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755117036774</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Обновил условия задач Task27, Task32, Task38, Task40">
+      <option name="closed" value="true" />
+      <created>1755119689224</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1755119689224</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -513,7 +541,8 @@
     <MESSAGE value="Добавил Task29-Task37" />
     <MESSAGE value="Добавил папку methods. Добавил Task38-Task41" />
     <MESSAGE value="Изменил структуру проекта, добавил новые папки. Перенес классы в папки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменил структуру проекта, добавил новые папки. Перенес классы в папки" />
+    <MESSAGE value="Обновил условия задач Task27, Task32, Task38, Task40" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил условия задач Task27, Task32, Task38, Task40" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -571,22 +600,22 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task28.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java</url>
           <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p5_nestedLoops/Task31.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task31.java</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task35.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task35.java</url>
           <line>26</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task36.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task36.java</url>
           <line>14</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
@@ -597,7 +626,7 @@
         <watch expression="6" language="JAVA" />
         <watch expression="6" language="JAVA" />
       </configuration>
-      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/ru/stepik/p6_breakСontinue/Task34.java" line="18">
+      <inline-watch fileUrl="file://$PROJECT_DIR$/src/main/java/ru/stepik/p06_breakСontinue/Task34.java" line="18">
         <watch expression="a" language="JAVA" />
       </inline-watch>
     </watches-manager>
