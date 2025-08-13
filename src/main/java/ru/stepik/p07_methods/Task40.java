@@ -5,7 +5,7 @@
  */
 
 
-package ru.stepik.p08_methods;
+package ru.stepik.p07_methods;
 
 import java.util.Scanner;
 

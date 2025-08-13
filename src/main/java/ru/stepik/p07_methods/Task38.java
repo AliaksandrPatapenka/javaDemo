@@ -6,7 +6,7 @@
 В методе main продемонстрировано использование метода isPrime(). Этот код менять нельзя!
  */
 
-package ru.stepik.p08_methods;
+package ru.stepik.p07_methods;
 
 import java.util.Scanner;
 
