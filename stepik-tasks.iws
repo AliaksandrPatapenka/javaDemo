@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Изменил название папки">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p07_methods/Task42.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновил  условие задачи Task 42">
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task27.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -508,7 +506,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755125652693</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Оновил  условия задач Tssk 27, Task28. Добавил Task42">
+      <option name="closed" value="true" />
+      <created>1755271909689</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1755271909689</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Обновил  условие задачи Task 42">
+      <option name="closed" value="true" />
+      <created>1755271967202</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1755271967202</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -568,7 +582,9 @@
     <MESSAGE value="Обновил условия задач Task27, Task32, Task38, Task40" />
     <MESSAGE value="Изменил названия папок 01-08" />
     <MESSAGE value="Изменил название папки" />
-    <option name="LAST_COMMIT_MESSAGE" value="Изменил название папки" />
+    <MESSAGE value="Оновил  условия задач Tssk 27, Task28. Добавил Task42" />
+    <MESSAGE value="Обновил  условие задачи Task 42" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил  условие задачи Task 42" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -627,7 +643,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
