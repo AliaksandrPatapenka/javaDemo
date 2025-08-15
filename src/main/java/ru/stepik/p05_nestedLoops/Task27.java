@@ -6,7 +6,8 @@
 333
 22
 1
- */
+
+*/
 
 
 package ru.stepik.p05_nestedLoops;
