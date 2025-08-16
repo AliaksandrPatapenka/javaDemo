@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновил  условие задачи Task 42">
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task27.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновил решение">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task45.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task46.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task47.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task48.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik-tasks.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,6 +270,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Task1.executor": "Run",
     "Application.Task15.executor": "Run",
     "Application.Task18.executor": "Run",
     "Application.Task19.executor": "Run",
@@ -292,16 +297,24 @@
     "Application.Task40.executor": "Run",
     "Application.Task41.executor": "Run",
     "Application.Task42.executor": "Run",
+    "Application.Task43.executor": "Run",
+    "Application.Task44.executor": "Run",
+    "Application.Task45.executor": "Run",
+    "Application.Task46.executor": "Run",
+    "Application.Task47.executor": "Run",
+    "Application.Task48.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/ubuntu/IdeaProjects/Stepik/src/main/java/ru/stepik",
     "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
   }
 }]]></component>
   <component name="RunManager">
@@ -522,7 +535,47 @@
       <option name="project" value="LOCAL" />
       <updated>1755271967202</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Обновил  условие задач Task27, Task28">
+      <option name="closed" value="true" />
+      <created>1755272096034</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1755272096034</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Обновил  условие задач Task27, Task28">
+      <option name="closed" value="true" />
+      <created>1755272122486</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1755272122486</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Обновил  условие задачи Task42">
+      <option name="closed" value="true" />
+      <created>1755272158214</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1755272158214</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Добавил Task43, Task44">
+      <option name="closed" value="true" />
+      <created>1755343180464</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1755343180464</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Обновил решение">
+      <option name="closed" value="true" />
+      <created>1755343207913</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1755343207913</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -584,7 +637,11 @@
     <MESSAGE value="Изменил название папки" />
     <MESSAGE value="Оновил  условия задач Tssk 27, Task28. Добавил Task42" />
     <MESSAGE value="Обновил  условие задачи Task 42" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил  условие задачи Task 42" />
+    <MESSAGE value="Обновил  условие задач Task27, Task28" />
+    <MESSAGE value="Обновил  условие задачи Task42" />
+    <MESSAGE value="Добавил Task43, Task44" />
+    <MESSAGE value="Обновил решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -643,7 +700,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p05_nestedLoops/Task28.java</url>
-          <line>28</line>
+          <line>29</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -661,9 +718,19 @@
           <line>14</line>
           <option name="timeStamp" value="14" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p07_methods/Task44.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task48.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p07_methods/Task42.java</url>
-          <line>27</line>
+          <line>28</line>
           <properties class="ru.stepik.p07_methods.Task42" method="printTriangle">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
