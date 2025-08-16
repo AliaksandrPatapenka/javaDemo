@@ -5,6 +5,7 @@ package ru.stepik.p01_calculations;/*
  */
 
 
+import java.util.Locale;
 import java.util.Scanner;
 
 class Task1 {
