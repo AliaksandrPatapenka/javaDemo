@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Обновил решение">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task45.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task46.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task47.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task48.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stepik-tasks.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.ipr" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил папку p08_arrays. Добавил Task45 - Task48">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p09_classArrays/Task49.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p09_classArrays/Task50.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p09_classArrays/Task51.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -303,6 +301,9 @@
     "Application.Task46.executor": "Run",
     "Application.Task47.executor": "Run",
     "Application.Task48.executor": "Run",
+    "Application.Task49.executor": "Run",
+    "Application.Task50.executor": "Run",
+    "Application.Task51.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -575,7 +576,23 @@
       <option name="project" value="LOCAL" />
       <updated>1755343207913</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Добавил папку p08_arrays. Добавил Task45 - Task48">
+      <option name="closed" value="true" />
+      <created>1755360518607</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1755360518607</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Добавил папку p08_arrays. Добавил Task45 - Task48">
+      <option name="closed" value="true" />
+      <created>1755360602646</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1755360602646</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -641,7 +658,8 @@
     <MESSAGE value="Обновил  условие задачи Task42" />
     <MESSAGE value="Добавил Task43, Task44" />
     <MESSAGE value="Обновил решение" />
-    <option name="LAST_COMMIT_MESSAGE" value="Обновил решение" />
+    <MESSAGE value="Добавил папку p08_arrays. Добавил Task45 - Task48" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил папку p08_arrays. Добавил Task45 - Task48" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -722,20 +740,6 @@
           <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p07_methods/Task44.java</url>
           <line>30</line>
           <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p08_arrays/Task48.java</url>
-          <line>49</line>
-          <option name="timeStamp" value="32" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p07_methods/Task42.java</url>
-          <line>28</line>
-          <properties class="ru.stepik.p07_methods.Task42" method="printTriangle">
-            <option name="EMULATED" value="true" />
-            <option name="WATCH_EXIT" value="false" />
-          </properties>
-          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
