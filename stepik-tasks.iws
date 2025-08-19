@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил папку p09_p09_classArrays. Добавил Task49- Task51">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p10_twoDimensionalArrays/Task52.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p10_twoDimensionalArrays/Task53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p10_twoDimensionalArrays/Task54.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил Task52-Task54">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task55.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task56.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task57.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task58.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -185,6 +186,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -307,6 +309,11 @@
     "Application.Task52.executor": "Run",
     "Application.Task53.executor": "Run",
     "Application.Task54.executor": "Run",
+    "Application.Task55.executor": "Run",
+    "Application.Task56.executor": "Run",
+    "Application.Task57.executor": "Run",
+    "Application.Task58.executor": "Run",
+    "Application.task.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
@@ -603,7 +610,31 @@
       <option name="project" value="LOCAL" />
       <updated>1755427238237</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Добавил Task52- Task54">
+      <option name="closed" value="true" />
+      <created>1755521472555</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1755521472555</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Добавил Task52-Task54">
+      <option name="closed" value="true" />
+      <created>1755521524383</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1755521524383</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Добавил Task52-Task54">
+      <option name="closed" value="true" />
+      <created>1755521653977</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1755521653977</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -671,7 +702,9 @@
     <MESSAGE value="Обновил решение" />
     <MESSAGE value="Добавил папку p08_arrays. Добавил Task45 - Task48" />
     <MESSAGE value="Добавил папку p09_p09_classArrays. Добавил Task49- Task51" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил папку p09_p09_classArrays. Добавил Task49- Task51" />
+    <MESSAGE value="Добавил Task52- Task54" />
+    <MESSAGE value="Добавил Task52-Task54" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил Task52-Task54" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -755,7 +788,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p10_twoDimensionalArrays/Task53.java</url>
-          <line>27</line>
+          <line>28</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
       </breakpoints>
