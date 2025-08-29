@@ -4,11 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил Task52-Task54">
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task55.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task56.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task57.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p11_arraysAndMethods/Task58.java" afterDir="false" />
+    <list default="true" id="bd2190c5-7066-4ea0-8b77-c9a13c291707" name="Changes" comment="Добавил папку p11_arraysAndMethods. Добавил Task55-Task58">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task59.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task61.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task62.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task63.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task65.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p12_classString/Task66.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p13_StringBufferAndStringBuilder/Task67.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p13_StringBufferAndStringBuilder/Task68.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p13_StringBufferAndStringBuilder/Task69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/stepik/p13_StringBufferAndStringBuilder/Task70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stepik-tasks.iws" beforeDir="false" afterPath="$PROJECT_DIR$/stepik-tasks.iws" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -268,66 +276,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Task1.executor": "Run",
-    "Application.Task15.executor": "Run",
-    "Application.Task18.executor": "Run",
-    "Application.Task19.executor": "Run",
-    "Application.Task20.executor": "Run",
-    "Application.Task21.executor": "Run",
-    "Application.Task22.executor": "Run",
-    "Application.Task23.executor": "Run",
-    "Application.Task24.executor": "Run",
-    "Application.Task25.executor": "Run",
-    "Application.Task26.executor": "Run",
-    "Application.Task27.executor": "Run",
-    "Application.Task28.executor": "Run",
-    "Application.Task29.executor": "Run",
-    "Application.Task30.executor": "Run",
-    "Application.Task31.executor": "Run",
-    "Application.Task32.executor": "Run",
-    "Application.Task33.executor": "Run",
-    "Application.Task34.executor": "Run",
-    "Application.Task35.executor": "Run",
-    "Application.Task36.executor": "Run",
-    "Application.Task37.executor": "Run",
-    "Application.Task38.executor": "Run",
-    "Application.Task39.executor": "Run",
-    "Application.Task40.executor": "Run",
-    "Application.Task41.executor": "Run",
-    "Application.Task42.executor": "Run",
-    "Application.Task43.executor": "Run",
-    "Application.Task44.executor": "Run",
-    "Application.Task45.executor": "Run",
-    "Application.Task46.executor": "Run",
-    "Application.Task47.executor": "Run",
-    "Application.Task48.executor": "Run",
-    "Application.Task49.executor": "Run",
-    "Application.Task50.executor": "Run",
-    "Application.Task51.executor": "Run",
-    "Application.Task52.executor": "Run",
-    "Application.Task53.executor": "Run",
-    "Application.Task54.executor": "Run",
-    "Application.Task55.executor": "Run",
-    "Application.Task56.executor": "Run",
-    "Application.Task57.executor": "Run",
-    "Application.Task58.executor": "Run",
-    "Application.task.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/ubuntu/IdeaProjects/Stepik/src/main/java/ru/stepik",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Task1.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task15.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task18.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task19.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task20.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task21.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task22.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task23.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task24.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task25.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task26.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task27.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task28.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task29.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task30.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task31.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task32.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task33.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task34.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task35.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task36.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task37.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task38.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task39.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task40.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task41.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task42.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task43.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task44.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task45.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task46.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task47.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task48.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task49.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task50.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task51.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task52.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task53.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task54.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task55.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task56.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task57.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task58.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task59.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task60.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task61.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task62.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task63.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task64.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task65.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task66.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task67.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task68.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task69.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Task70.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ubuntu/IdeaProjects/Stepik/src/main/java/ru/stepik&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.projectsettings.compiler.javacompiler&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration selected="false" default="true" type="Applet" factoryName="Applet">
       <module name="" />
@@ -634,7 +654,15 @@
       <option name="project" value="LOCAL" />
       <updated>1755521653977</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="Добавил папку p11_arraysAndMethods. Добавил Task55-Task58">
+      <option name="closed" value="true" />
+      <created>1755598294088</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1755598294088</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -704,7 +732,8 @@
     <MESSAGE value="Добавил папку p09_p09_classArrays. Добавил Task49- Task51" />
     <MESSAGE value="Добавил Task52- Task54" />
     <MESSAGE value="Добавил Task52-Task54" />
-    <option name="LAST_COMMIT_MESSAGE" value="Добавил Task52-Task54" />
+    <MESSAGE value="Добавил папку p11_arraysAndMethods. Добавил Task55-Task58" />
+    <option name="LAST_COMMIT_MESSAGE" value="Добавил папку p11_arraysAndMethods. Добавил Task55-Task58" />
   </component>
   <component name="VssConfiguration">
     <CheckoutOptions>
@@ -791,6 +820,15 @@
           <line>28</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/ru/stepik/p13_StringBufferAndStringBuilder/Task70.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.OutOfMemoryError" package="java.lang" />
+          <option name="timeStamp" value="30" />
+        </breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <watches-manager>
